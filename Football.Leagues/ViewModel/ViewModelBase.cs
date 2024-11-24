@@ -1,20 +1,20 @@
-﻿using FootballLeague.Core;
-using FootballLeague.Service.Interfaces;
+﻿using Football.Leagues.Core;
+using Football.Leagues.Service.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FootballLeague.Viewmodels
+namespace Football.Leagues.ViewModel
 {
     public abstract class ViewModelBase : ObservableObject
     {
-        private INavigationService _navigationService;
+        private INavigationService? _navigationService;
 
-        public INavigationService NavigationService
+        public INavigationService? NavigationService
         {
-            get { return _navigationService; }
+            get => _navigationService;
             set { _navigationService = value; OnPropertyChanged(); }
         }
     }

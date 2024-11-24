@@ -1,20 +1,20 @@
-﻿using FootballLeague.Service.Interfaces;
-using FootballLeague.Viewmodels;
+﻿using Football.Leagues.Service;
+using Football.Leagues.Service.Common;
+using Football.Leagues.ViewModel;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Configuration;
 using System.Data;
-using FootballLeague.Service;
 using System.Windows;
 
-namespace FootballLeague
+namespace Football.Leagues
 {
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
-        private readonly ServiceProvider _serviceProvider;
+        private readonly ServiceProvider? _serviceProvider;
 
         public App()
         {
@@ -42,4 +42,5 @@ namespace FootballLeague
         }
 
     }
+
 }

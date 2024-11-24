@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FootballLeague.Service.Interfaces
+namespace Football.Leagues.Service.Common
 {
     public interface IHandleParameters
     {
-        void HandleParameters(object parameters);
+        void HandleParameters(object? parameters);
     }
 }

@@ -1,11 +1,11 @@
-﻿using FootballLeague.Service.Interfaces;
+﻿using Football.Leagues.Service.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FootballLeague.Viewmodels
+namespace Football.Leagues.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {
