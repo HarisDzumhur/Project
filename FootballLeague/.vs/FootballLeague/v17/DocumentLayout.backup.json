@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haris\\OneDrive\\Radna povr\u0161ina\\HCI\\FootballLeague\\FootballLeague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80A53737-A000-4496-852F-8FA1AF952AAF}|FootballLeague\\FootballLeague.csproj|c:\\users\\haris\\onedrive\\radna povr\u0161ina\\hci\\footballleague\\footballleague\\footballleague\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80A53737-A000-4496-852F-8FA1AF952AAF}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A53737-A000-4496-852F-8FA1AF952AAF}|FootballLeague\\FootballLeague.csproj|c:\\users\\haris\\onedrive\\radna povr\u0161ina\\hci\\footballleague\\footballleague\\footballleague\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A53737-A000-4496-852F-8FA1AF952AAF}|FootballLeague\\FootballLeague.csproj|solutionrelative:footballleague\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\haris\\OneDrive\\Radna povr\u0161ina\\HCI\\FootballLeague\\FootballLeague\\FootballLeague\\Viewmodels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FootballLeague\\Viewmodels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\haris\\OneDrive\\Radna povr\u0161ina\\HCI\\FootballLeague\\FootballLeague\\FootballLeague\\Viewmodels\\LoginViewModel.cs",
+              "RelativeToolTip": "FootballLeague\\Viewmodels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:59:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\haris\\OneDrive\\Radna povr\u0161ina\\HCI\\FootballLeague\\FootballLeague\\FootballLeague\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "FootballLeague\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\haris\\OneDrive\\Radna povr\u0161ina\\HCI\\FootballLeague\\FootballLeague\\FootballLeague\\Views\\LoginView.xaml",
+              "RelativeToolTip": "FootballLeague\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T11:01:47.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

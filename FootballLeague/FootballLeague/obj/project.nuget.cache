@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNQwAiV8kLk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haris\\OneDrive\\Radna površina\\HCI\\FootballLeague\\FootballLeague\\FootballLeague\\FootballLeague.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
